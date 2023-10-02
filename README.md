@@ -43,7 +43,7 @@ Once the app is running, open your web browser and access npm-nextjs-app-demo at
 - simple template from Nextjs that you can change to your prefrence
 
 # Features
-- Javascript, TailwindCSS, Yarn packages
+- Javascript, TailwindCSS, Npm packages
 
 # Contributing
 We welcome contributions from the community! To contribute to npm-nextjs-app-demo, please follow these guidelines:
