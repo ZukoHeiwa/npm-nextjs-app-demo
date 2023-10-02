@@ -15,6 +15,14 @@ npm-nextjs-app-demo is a simple webiste demo project made with Npm package manag
 
 To run npm-nextjs-app-demo on your local machine, follow these steps:
 
+Before installation make sure you have npm and nodejs
+```
+node -v
+npm -v
+```
+
+Otherwise ddownload here https://nodejs.org/en, after you can start with:
+
 1. Clone the repository:
 
     ```bash
@@ -43,7 +51,7 @@ Once the app is running, open your web browser and access npm-nextjs-app-demo at
 - simple template from Nextjs that you can change to your prefrence
 
 # Features
-- Javascript, TailwindCSS, Npm packages
+- Javascript, TailwindCSS, Yarn packages
 
 # Contributing
 We welcome contributions from the community! To contribute to npm-nextjs-app-demo, please follow these guidelines:
